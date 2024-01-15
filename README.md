@@ -12,3 +12,5 @@ Using these three models, I experimented with the following to try to achieve th
 - Preprocessing the data with standard normalization and PCA normalization
 - Tuning hyperparameters of the model
 - Adding/removing features used for training
+
+A more detailed explanation of my process can be found in the writeup document `Writeup.pdf`.
